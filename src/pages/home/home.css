@@ -1,0 +1,57 @@
+.container {
+  border: 2px solid black;
+  height: 500px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+  background-color: whitesmoke;
+}
+
+.containerbox {
+  border: 2px solid red;
+  height: 300px;
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 10rem;
+  background-image: url("./images/young-satisfied-woman-smiling-showing-plastic-credit-card-holding-shopping-bags-buying-with-cont.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.container2 {
+  display: flex;
+  border: 2px solid green;
+  height: 400px;
+  width: 70%;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-between;
+}
+.containerbox2 {
+  border: 2px solid red;
+  height: 200px;
+  width: 200px;
+  margin: 0 auto;
+  background-image: url("./images/headphone1.jfif.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container3 {
+  border: 2px solid blue;
+  height: 200px;
+  width: 200px;
+}
+
+.containerbox3 {
+  height: 200px;
+  width: 200px;
+  border: 2px solid red;
+  margin: 0 auto;
+  margin-right: 15rem;
+  margin-top: 3rem;
+  background-image: url("./images/mobile.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
